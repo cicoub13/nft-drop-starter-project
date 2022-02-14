@@ -1,0 +1,19 @@
+{
+    "name": "Pinguin 1",
+    "symbol": "PINGANG",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5fr5MQUHTXGeASaj3Xr5MG3xnHoht3UqZro6ebmAo2F1",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -13,3 +13,7 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 ### Questions?
 Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e) and link your Discord account so you can get access to helpful channels and your instructor!
 
+- "WARNING: The "arweave" storage option will be going away soon. Please migrate to arweave-bundle or arweave-sol for mainnet"
+Candy machine G7Lct5MFL159Ut5xM9UvEezUd5cabWpuNhP5sAmAh3XK
+
+Fees calculator here - https://arweavefees.com/
